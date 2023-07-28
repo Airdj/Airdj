@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Static Badge](https://img.shields.io/badge/Pytorch-showup?style=flat-square&logo=pytorch&label=Siema&labelColor=blue&color=red)
 
 <!--
 **Airdj/Airdj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
