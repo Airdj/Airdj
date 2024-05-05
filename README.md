@@ -13,7 +13,7 @@ but also a creative activity open to new ideas.
 
 🖥\
 Skills:
-- Python 3.x (numpy, pandas, matplotlib)
+- Python 3.x (numpy, pandas, matplotlib, scikit-learn)
 - PostgreSQL
 - Flask
 - SQLAlchemy
@@ -22,10 +22,9 @@ Skills:
 
 🌱\
 Currently explored topics in addition to the ones listed above:
-- Tableau
-- Spark
-- Scikit-learn
-- Pytorch
+- Tableau/PowerBI
+- Spark/PySpark
+- Pytorch/TensorFlow
 
 
 
