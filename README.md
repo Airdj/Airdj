@@ -1,30 +1,59 @@
 👋 \
 Hi, I'm Airdj.
 
-💼 \
-I'm a Junior Python Developer, currently wading through the piles of datasets.
+💼  
+I'm a Junior Data Scientist, currently working with real-world datasets and building predictive models.
+Passionate about data analysis, machine learning, and turning data into actionable insights.
 
-👨‍💻 \
-I'm a person who is deeply involved in the tasks I deal with, appreciating working with experienced people.\
-I have a high independence factor(before I ask a reasonable question and waste someone's time, I will search all available sources first).\
-I also feel great in teamwork because in the first place, I focus on transparent and precise communication.\
-I have an open mind, thanks to which I am not afraid of innovation because I believe that programming is not only based on patterns,\
-but also a creative activity open to new ideas.
+👨‍💻  
+I'm deeply engaged in the projects I take on and enjoy collaborating with experienced developers.  
+I value independence - I research thoroughly before asking questions.  
 
-🖥\
-Skills:
-- Python 3.x (numpy, pandas, matplotlib, scikit-learn)
-- PostgreSQL
-- Flask
-- SQLAlchemy
-- Linux
+At the same time, I work well in team environments, focusing on clear and transparent communication.  
+I have an open mind and embrace innovation - I see programming not only as following patterns, but also as a creative process open to new ideas.
+
+🖥  
+**Skills:**  
+- Python (NumPy, pandas, matplotlib, scikit-learn)  
+- PostgreSQL  
+- Flask  
+- SQLAlchemy  
+- Linux  
 - Docker
 
-🌱\
-Currently explored topics in addition to the ones listed above:
-- Tableau/PowerBI
-- Spark/PySpark
-- Pytorch/TensorFlow
+🌱  
+**Currently exploring:**  
+- Tableau  
+- PySpark  
+- PyTorch  
+- Hugging Face 
+
+📌  
+**Projects:**  
+
+- **Loan Approval Prediction**  
+  Predicting loan approval decisions using machine learning models trained on structured financial data.  
+  👉 https://github.com/Airdj/loan_approval_prediction  
+
+- **Store Sales Prediction**  
+  Time series / regression analysis to forecast store sales based on historical data.  
+  👉 https://github.com/Airdj/store_sales_prediction  
+
+- **Titanic Survival Prediction**  
+  Classic classification problem using feature engineering and ML models to predict passenger survival.  
+  👉 https://github.com/Airdj/titanic_survival_prediction  
+
+- **Housing Price Prediction**  
+  Regression model for predicting real estate prices based on various housing features.  
+  👉 https://github.com/Airdj/housing_price_prediction  
+
+📊  
+**Focus areas:**  
+- Data analysis & visualization  
+- Machine learning (classification & regression)  
+- Working with real-world datasets  
+
+
 
 
 
