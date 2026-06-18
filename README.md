@@ -70,7 +70,7 @@ I have an open mind and embrace innovation - I see programming not only as follo
 - Working with real-world datasets  
 
 
-🎯 
+🎯  
 **Career Goal:**
 
 Seeking opportunities as a Junior Data Scientist or Data Analyst where I can apply machine learning 
