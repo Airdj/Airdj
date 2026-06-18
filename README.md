@@ -60,6 +60,7 @@ I have an open mind and embrace innovation - I see programming not only as follo
 
   👉 https://github.com/Airdj/store_sales_prediction  
 
+
  
 
 📊  
@@ -68,8 +69,9 @@ I have an open mind and embrace innovation - I see programming not only as follo
 - Machine learning (classification & regression)  
 - Working with real-world datasets  
 
+
 🎯 
-**Career Goal**
+**Career Goal:**
 
 Seeking opportunities as a Junior Data Scientist or Data Analyst where I can apply machine learning 
 and analytical skills to solve real-world problems and continue growing as a data professional.
