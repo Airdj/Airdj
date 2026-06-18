@@ -36,25 +36,29 @@ I have an open mind and embrace innovation - I see programming not only as follo
   Developed a machine learning system for credit risk assessment and loan approval decisions. Built a LightGBM classifier with advanced feature engineering
   and Optuna-based hyperparameter tuning, achieving ROC AUC of 0.97277. Designed the solution to minimize lending risk by accurately identifying high-risk
   applicants while supporting reproducible training and inference workflows through FastAPI, Gradio, Docker, and MLflow.
+
   👉 https://github.com/Airdj/loan_approval_prediction
   
 - **Housing Price Prediction**  
   Built a production-oriented machine learning pipeline for real estate price prediction using feature engineering, PCA,
   ensemble learning, and Optuna-based hyperparameter tuning. Developed a stacked model combining XGBoost, LightGBM, CatBoost, and linear
   models, achieving RMSE of 12,869. Deployed the solution with FastAPI, Gradio, Docker, and MLflow for reproducible training and inference workflows.
+
   👉 https://github.com/Airdj/housing_price_prediction
   
 - **Titanic Survival Prediction**  
   Developed an interpretable machine learning solution to identify the key factors influencing passenger survival. Applied feature engineering, SHAP-based explainability,
   and ablation studies to determine the smallest feature subset maintaining predictive performance. Built and optimized a Gradient Boosting model achieving ROC-AUC of 0.8742 while
   extracting human-readable survival rules from model predictions. 
+
   👉 https://github.com/Airdj/titanic_survival_prediction 
 
 - **Store Sales Prediction**  
   Developed a machine learning model for retail sales forecasting to support inventory planning and business decision-making. Combined historical sales data
   with external factors such as promotions, holidays, transactions, and oil prices through feature engineering and time-series preprocessing.
   Built and optimized a Random Forest regressor achieving an RMSLE score of 0.45220.
- 👉 https://github.com/Airdj/store_sales_prediction  
+
+  👉 https://github.com/Airdj/store_sales_prediction  
 
  
 
